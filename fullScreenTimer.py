@@ -11,7 +11,7 @@ def generatePrintableTime(seconds):
     return "\t\t\t\t{} {} : {} {}".format(minute[0],minute[1], second[0],second[1])
 
 def playAlarm(mixer):
-    mixer.music.load('AlarmClock.mp3')
+    mixer.music.load('resources/AlarmClock.mp3')
     mixer.music.play(2)
 
 def stopOrEnd(mixer):
