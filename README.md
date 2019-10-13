@@ -16,4 +16,6 @@ All messages are displayed using ASCII art with the help of **pyfiglet** library
 - https://www.devdungeon.com/content/create-ascii-art-text-banners-python
 
 ## Run the App
-`python fullScreenTimer.py`
+1. open *Terminal* / *cmd*
+2. type `python fullScreenTimer.py`
+3. The application will start in fullscreen window.
